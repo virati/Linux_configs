@@ -23,6 +23,9 @@ What I'm running on my Gaming/Heavy Machine
 * Ubuntu 16.04
 * Dual-boot Windows 10
 * XFCE4 WM
+* Gigabyte Aero 15
+* 500GB x 2 NVMe SSDs
+* 32 GB RAM
 * POK3R Mechanical Keyboard w/ no labels
 * Logitech G300 Laser Mouse
 * Wacom Drawing Tablet
