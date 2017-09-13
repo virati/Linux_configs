@@ -11,6 +11,8 @@ What I'm running on my Productivity/Light Machine
 
 * Arch Linux
 * i3 Tiling Window Manager
+* dmenu
+* i3status
 * Asus Laptop with SSDs only
 * Conky resource monitor
 * Lilyterm
